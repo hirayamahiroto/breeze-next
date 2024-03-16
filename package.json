@@ -31,5 +31,8 @@
     "postcss": "^8.4.6",
     "prettier": "2.2.1",
     "tailwindcss": "^3.0.22"
+  },
+  "volta": {
+    "node": "18.17.1"
   }
 }
